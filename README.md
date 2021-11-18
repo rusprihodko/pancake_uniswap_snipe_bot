@@ -1,3 +1,15 @@
+## About bot:
+
+It is a very simple '1 file' bot with an only goal to buy new token(shitcoin) at first block to buy new coin.
+
+Transaction can be initiated independantly from the time new token starts selling.
+
+You can run it much easier and be sure you will buy it at first few seconds after sell start.
+
+Please choose coins carefully, remember that a big quantity of those are scam!
+
+
+
 ## How to use:
 
 :white_check_mark: clone repository or download zip archive and extract bot to a preferred folder
