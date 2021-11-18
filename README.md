@@ -28,7 +28,7 @@ also, remember 80% of new shitcoins are SCAM and make a responsible decision whe
 
 
 ## Your thanks:
-BOT is free-to-use, but you are welcome to appreciate my work with yout profits by using bot:)
+BOT is free-to-use, but you are welcome to appreciate my work with your profits from bot:)
 
 BTC - bc1qc78zxccpxevk3xqxzwe8wk40fxrjz5xkvk7ksc
 
