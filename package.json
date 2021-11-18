@@ -1,0 +1,33 @@
+{
+  "name": "pancake_uniswap_snipe_bot",
+  "version": "2.0.8",
+  "description": "This is a snipe bot for Pancakeswap and Uniswap platforms",
+  "main": "buyToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snipe-bot",
+    "bot",
+    "gem",
+    "crypto",
+    "Pancake",
+    "Uniswap",
+    "tothemoon",
+    "buy",
+    "trade"
+  ],
+  "author": "anthonyj",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.5.1",
+    "inquirer": "^8.2.0",
+    "pancake_uniswap_validators_utils": "^7.1.8",
+    "web3": "^1.6.1"
+  }
+}
