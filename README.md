@@ -6,7 +6,7 @@
 
 :white_check_mark: open terminal/bash/shell at your bot directory and run `npm install` command to install dependencies
 
-:white_check_mark: open `.env` file and fill in such properties as:
+:white_check_mark: open `.env` file with your favourite text editor and fill in such properties as and save the file:
 
 * `YOUR_ACCOUNT_ADDRESS`
 * `YOUR_ACCOUNT_PRIVATE_KEY`
