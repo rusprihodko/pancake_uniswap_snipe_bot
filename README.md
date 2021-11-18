@@ -4,6 +4,8 @@
 
 :white_check_mark: download and install Node.js on your pc if you hadn't done it before: https://nodejs.org/en/download/
 
+:white_check_mark: open terminal/bash/shell at your bot directory and run `npm install` command to install dependencies
+
 :white_check_mark: open `.env` file and fill in such properties as:
 
 * `YOUR_ACCOUNT_ADDRESS`
@@ -21,7 +23,6 @@ If you have some problems, try to rerun it
 
 :warning::warning::warning:
 PLEASE DO NOT SHARE YOU PRIVATE KEY WITH ANYBODY, YOU CAN LOSE ALL YOUR CREDITS FROM YOUR ACCOUNT
-:warning::warning::warning:
 
 also, remember 80% of new shitcoins are SCAM and make a responsible decision whether to buy coin or not
 
