@@ -48,6 +48,20 @@ ruslanprihodko91 - 0.511 BNB
 
 unknown user - 0.24 BNB
 
+## Most asked questions:
+1. Where to get my account address?
+
+You can copy it from your `Metamask` as on screenshot below. After token bought, this account be an owner of newly bought token amount
+
+![screenshot_1](https://prnt.sc/2023ap1)
+
+2. Where to get my private key?
+
+First of all, be very carefull and keep your `PRIVATE KEY` savely - do not ever send it to anybody!
+You cam retrieve your account's private key from `Metamask` - three vertical dots on right side from account name -> `Account details` -> `Export private key`
+
+![screenshot_2](https://prnt.sc/2023fp7)
+
 ## Feedback:
 I would be grateful for your feedback and bot improvements proposals, you can contact me by email:
 `ajeffersonibm@gmail.com`
