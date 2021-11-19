@@ -4,7 +4,7 @@ It is a very simple '1 file' bot with an only goal to buy new token(shitcoin) at
 
 Transaction can be initiated independantly from the time new token becomes available to buy
 
-You can run it much easier and be sure you will buy it at first few seconds after sell start
+You can run it much earlier and be sure you will buy it at first few seconds after sell start
 
 Please choose coins carefully, remember that a big quantity of those are scam!
 
